@@ -26,13 +26,22 @@ PRs are always welcome!
 
 ## Aliases
 
-| Alias   | Command              | Description                          |
-| ------- | -------------------- | ------------------------------------ |
-| ghal    | `gh auth login`      | Authentication login command         |
-| ghcpe   | `gh copilot explain` | Use Copilot to explain a command     |
-| ghcps   | `gh copilot suggest` | Use Copilot to suggest a command     |
-| ghpr    | `gh pr create`       | Create a new pull request            |
-| ghprl   | `gh pr list`         | List pull requests in the repository |
-| ghprm   | `gh pr merge`        | Merge a pull request                 |
-| ghprcmt | `gh pr comment`      | Add a comment to a PR                |
-| ghprsts | `gh pr status`       | Show the status of a pull request    |
+| Alias   | Command                   | Description                       |
+|---------|---------------------------|-----------------------------------|
+| ghal    | `gh auth login`           | Authenticate with GitHub          |
+| ghcpe   | `gh copilot explain`      | Explain code using Copilot        |
+| ghcps   | `gh copilot suggest`      | Suggest code using Copilot        |
+| ghcpd   | `gh copilot debug`        | Debug code using Copilot          |
+| ghcpc   | `gh copilot configure`    | Configure Copilot                 |
+| ghpr    | `gh pr create`            | Create a pull request             |
+| ghprl   | `gh pr list`              | List pull requests                |
+| ghprc   | `gh pr checkout`          | Checkout a pull request           |
+| ghprm   | `gh pr merge`             | Merge a pull request              |
+| ghprcmt | `gh pr comment`           | Comment on a pull request         |
+| ghprsts | `gh pr status`            | Show pull request status          |
+| ghr     | `gh repo create`          | Create a repository               |
+| ghrl    | `gh repo list`            | List repositories                 |
+| ghrcl   | `gh repo clone`           | Clone a repository                |
+| ghi     | `gh issue create`         | Create an issue                   |
+| ghil    | `gh issue list`           | List issues                       |
+| ghic    | `gh issue comment`        | Comment on an issue               |
