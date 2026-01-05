@@ -1,4 +1,4 @@
-# omz-plugin-bun
+# omz-plugin-gh
 
 oh-my-zsh aliases for common [gh](https://cli.github.com/) commands.
 
