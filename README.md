@@ -29,12 +29,6 @@ PRs are always welcome!
 | Alias   | Command                   | Description                       |
 |---------|---------------------------|-----------------------------------|
 | ghal    | `gh auth login`           | Authenticate with GitHub          |
-| ghcp    | `gh copilot`              | GitHub Copilot                    |
-| ghcpa   | `gh copilot alias`        | Generate shell-specific aliases   |
-| ghcpe   | `gh copilot explain`      | Explain code using Copilot        |
-| ghcps   | `gh copilot suggest`      | Suggest code using Copilot        |
-| ghcpd   | `gh copilot debug`        | Debug code using Copilot          |
-| ghcpc   | `gh copilot config`       | Configure Copilot                 |
 | ghpr    | `gh pr create`            | Create a pull request             |
 | ghprl   | `gh pr list`              | List pull requests                |
 | ghprc   | `gh pr checkout`          | Checkout a pull request           |
